@@ -1,0 +1,13 @@
+{
+    "name": "discord-embed-generator",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "node server.js"
+    },
+    "dependencies": {
+        "ejs": "^3.1.9",
+        "express": "^4.18.2",
+        "path": "^0.12.7",
+        "vercel": "^29.3.6"
+    }
+}
